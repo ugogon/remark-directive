@@ -35,7 +35,7 @@
   "dependencies": {
     "@types/mdast": "^4.0.0",
     "mdast-util-directive": "^3.0.0",
-    "micromark-extension-directive": "^3.0.0",
+    "micromark-extension-directive": "github:ugogon/micromark-extension-directive",
     "unified": "^11.0.0"
   },
   "devDependencies": {
